@@ -6,17 +6,17 @@
 <p>
   
   <a href="https://www.credly.com/badges/38a00d76-86ac-45c9-a2d4-27a5a87f8901/public_url">
-    <img src="https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="80" />
+    <img src="https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png" width="150" />
   </a>
 
   <a href="https://www.credly.com/badges/3cf65f63-0029-4048-a712-959a88ba4cd6/public_url">
-    <img src="https://github.com/realadamnix/realadamnix/assets/150264616/39edfd59-3c1e-4612-a029-7f732342674e" width="80" />
+    <img src="https://github.com/realadamnix/realadamnix/assets/150264616/39edfd59-3c1e-4612-a029-7f732342674e" width="150" />
   </a>
 
-  
   <a href="https://www.credly.com/badges/11c43589-e659-41ac-b10f-68e42cb81d8d">
-    <img src="https://github.com/user-attachments/assets/d19d6300-c0af-44de-81d7-338af1c90234" width="80" />
+    <img src="https://github.com/user-attachments/assets/d19d6300-c0af-44de-81d7-338af1c90234" width="150" />
   </a>
+
 
   <a href="https://www.credly.com/badges/7727ceee-8d52-48cf-a662-33b5a411935b">
     <img src="https://github.com/realadamnix/realadamnix/assets/150264616/84bd5ebc-8ecb-4de9-b438-3846d7d80425" width="59" />
